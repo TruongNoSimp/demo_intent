@@ -1,0 +1,8 @@
+<resources>
+    <string name="demo_intent">Demo Intent</string>
+    <string name="calling">Calling</string>
+    <string name="camera">Camera</string>
+    <string name="message">Message</string>
+    <string name="album">Album</string>
+    <string name="web">Web</string>
+</resources>
